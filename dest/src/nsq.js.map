@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "nsq.js",
+  "sourceRoot": "../../src/",
+  "sources": [
+    "nsq.coffee"
+  ],
+  "names": [],
+  "mappings": "AAAA,IAAA,sCAAA;;AAAA,CAAA,CAAC,KAAwC,OAAzC,IAAyC,EAAzC;;AAEA,CAFA,EAGE,GADI,CAAN;CACE,CAAA,IAAA,CAAQ,GAAA;CAAR,CACA,IAAA,CAAQ,GAAA;CADR,CAEA,YAAA;CAFA,CAGA,kBAAA;CANF,CAAA"
+}
