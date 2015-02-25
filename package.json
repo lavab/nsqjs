@@ -65,7 +65,7 @@
     "node-int64": "~0.3.0",
     "node-state": "~1.4.1",
     "request": "~2.30.0",
-    "snappystream": "0.3.0",
+    "snappystream": "git://github.com/lavab/snappystream.git#097109d7d28851b1",
     "underscore": "~1.5.2"
   }
 }
